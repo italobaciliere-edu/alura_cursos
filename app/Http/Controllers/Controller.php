@@ -11,3 +11,14 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
+
+/*
+|--------------------------------------------------
+| Autor name:  italobaciliere-edu
+| Autor email: a226856106@fumec.edu.br
+|--------------------------------------------------
+|
+|   Convenção de controles do Laravel
+|   https://laravel.com/docs/master/controllers
+|
+*/
